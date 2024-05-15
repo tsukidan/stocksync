@@ -48,7 +48,7 @@ StockSync uses state-of-the-art security measures to ensure that all data is han
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Support
-For support, visit the `ISSUES` section of the repository.
+For support, visit the [`ISSUES`](https://github.com/tsukidan/stocksync/issues) section of the repository.
 
 ---
 
