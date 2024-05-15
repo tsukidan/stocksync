@@ -3,7 +3,7 @@
 # 📈 StockSync - Inventory Management System 📉
 **Efficiently synchronize and manage your store inventory with style and precision.**
 
-![StockSync Banner](../stocksync/img/socialpreview.png)  
+![StockSync Banner](img/socialpreview.png) 
 *Your inventory managed smarter, not harder.*
 
 </div>
